@@ -16,16 +16,16 @@ Download [Telegram](https://web.telegram.org/a/)
 Maak een account aan op Telegram 
 
 Zoek naar de gebruiker 'Botfather'. 
-![Screenshot Botfather](/IoT/assets/Screenshot_20241003_094644_Telegram.jpg) 
+![Screenshot_20241003_094644_Telegram](https://github.com/user-attachments/assets/bd712c99-25a9-4fd3-b387-e0d7c1a1658e)
 
 Open een chat met Botfather, klik vervolgens op beginnen en voer het volgende command uit in de chat `/newbot`
-![Screenshot newbot command]()
+![Screenshot_20241003_094740_Telegram](https://github.com/user-attachments/assets/41fe881c-25d9-4431-89b1-2471b0d0c20d)
 
 Dan moet je in dezelfde chat deze bot een naam, en unieke username geven
-![Screenshot nameing bot]()
+![Screenshot_20241003_094841_Telegram](https://github.com/user-attachments/assets/dffa7ce9-5d90-436d-aad7-052fa725192a)
 
 Als dan alles goed is gegaan heb je nu een eigen bot, deze zou je in een apparte chat moeten zien. 
-![Screenshot Telegram chats]()
+![Screenshot_20241004_135047_Telegram](https://github.com/user-attachments/assets/a2c7c4ce-31e2-4f61-be23-43ba0403b423)
 
 ## Stap 2: Opzetten van de Arduino IDE
 Open Arduino IDE, en open de library manager (crl + shift + i)
@@ -33,10 +33,10 @@ Open Arduino IDE, en open de library manager (crl + shift + i)
 zoek vervolgens naar de volgende twee libraries en installeer deze: **Universaltelegrambot - Brian Lough** en **ArduinoJson - Benoit Blanchon**
 
 Na het installeren van deze twee libraries kun je de example 'echobot' uit de universaltelegrambot openen. Klik op **Files -> Examples -> Universaltelegrambot (misschien nodig om naar beneden te scrollen) -> Echobot**
-![Screenshot Echobot example](/IoT/assets/Schermafbeelding%202024-10-03%20095805.png)
+![Schermafbeelding 2024-10-03 095805](https://github.com/user-attachments/assets/db858f92-8747-43ba-825e-e93730238a64)
 
 Als het goed is heb je nu de volgende code: 
-![Screenshot code example](/IoT/assets/Schermafbeelding%202024-10-03%20095805.png)
+![Schermafbeelding 2024-10-03 155257](https://github.com/user-attachments/assets/da9fb3c4-7ab3-4ecf-bcc6-5dd80f3cb469)
 
 Pas vervolgens op lijn 27 & 28 de waardes aan naar jouw netwerk (naam en wachtwoord)
 
