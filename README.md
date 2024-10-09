@@ -16,16 +16,17 @@ Download [Telegram](https://web.telegram.org/a/)
 Maak een account aan op Telegram 
 
 Zoek naar de gebruiker 'Botfather'. 
-![Screenshot_20241003_094644_Telegram](https://github.com/user-attachments/assets/bd712c99-25a9-4fd3-b387-e0d7c1a1658e)
+![Screenshot_20241003_094644_Telegram](https://github.com/user-attachments/assets/af1b77d9-483a-4e8d-ba63-47d81ceb9a27)
 
 Open een chat met Botfather, klik vervolgens op beginnen en voer het volgende command uit in de chat `/newbot`
-![Screenshot_20241003_094740_Telegram](https://github.com/user-attachments/assets/41fe881c-25d9-4431-89b1-2471b0d0c20d)
+![Screenshot_20241003_094740_Telegram](https://github.com/user-attachments/assets/573b4bf4-75ca-4146-aace-c1b80c03001b)
 
 Dan moet je in dezelfde chat deze bot een naam, en unieke username geven
-![Screenshot_20241003_094841_Telegram](https://github.com/user-attachments/assets/dffa7ce9-5d90-436d-aad7-052fa725192a)
+![Screenshot_20241003_094841_Telegram](https://github.com/user-attachments/assets/95ffcc39-c6d6-481b-b865-5097ca5f7b22)
 
 Als dan alles goed is gegaan heb je nu een eigen bot, deze zou je in een apparte chat moeten zien. 
-![Screenshot_20241004_135047_Telegram](https://github.com/user-attachments/assets/a2c7c4ce-31e2-4f61-be23-43ba0403b423)
+![Screenshot_20241004_135047_Telegram](https://github.com/user-attachments/assets/96e28c2a-09e1-4ca5-8d6f-efeb9055d814)
+
 
 ## Stap 2: Opzetten van de Arduino IDE
 Open Arduino IDE, en open de library manager (crl + shift + i)
